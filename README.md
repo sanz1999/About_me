@@ -2,7 +2,7 @@
 I study Applied computer science at Faculty of Technical Sciences University of Novi Sad.  
 Currently 3rd year of Undergraduate Academic Studies.
 
-- 👀 I’m interested in backend development, data bases, and a lof of things more.
+- 👀 I’m interested in software engineering, backend development, data bases, and a lot more things.
 - 🌱 I’m currently learning C#(WPF,WCF,.Net Core, ADO.Net), C++, SQL, and a few more things..
 - 💞️ I’m looking to collaborate on small projects and programs so i can gain some expirience into multy-layer applications.
 - 📫 How to reach me : 
